@@ -6,13 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=560&lines=Automatizando+todo+lo+que+se+pueda+romper+%F0%9F%A4%96;QA+%2B+Dev+%3D+%E2%9D%A4%EF%B8%8F;JavaScript+%7C+TypeScript+%7C+Python+%7C+React;Construyendo+cannadia-platform+%26+satoshiteam-platform" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://img.shields.io/badge/QA%20Automation-00C9FF?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2C5364?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-0f2027?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
 </div>
 
 <br/>
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ### 👋 Sobre mí
 
@@ -21,22 +24,6 @@
 - 💻 También desarrollo con **React**, **Vue**, **TypeScript** y **Python**
 - 🌱 Explorando automatización con IA y agentes
 - ⚡ Fun fact: si algo se puede automatizar, ya tengo un script para eso
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JDGiraldo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JDGiraldo&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDGiraldo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="35%"/>
-
-</div>
 
 <br/>
 
@@ -50,26 +37,40 @@
 
 <br/>
 
-<div align="center">
-
 ### 📌 Proyectos destacados
 
-<a href="https://github.com/JDGiraldo/cannadia-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JDGiraldo&repo=cannadia-platform&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/JDGiraldo/satoshiteam-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JDGiraldo&repo=satoshiteam-platform&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/JDGiraldo/autoPlawright"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JDGiraldo&repo=autoPlawright&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/JDGiraldo/MercadoLibreAutomation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JDGiraldo&repo=MercadoLibreAutomation&theme=tokyonight&hide_border=true"/></a>
+<table>
+<tr>
+<td width="50%">
 
-</div>
+**[🌿 cannadia-platform](https://github.com/JDGiraldo/cannadia-platform)**
+<br/>Plataforma en desarrollo activo — TypeScript
+<br/><img src="https://img.shields.io/badge/status-en%20progreso-00C9FF?style=flat-square"/>
 
-<br/>
+</td>
+<td width="50%">
 
-<div align="center">
+**[⚡ satoshiteam-platform](https://github.com/JDGiraldo/satoshiteam-platform)**
+<br/>Plataforma en desarrollo activo — TypeScript
+<br/><img src="https://img.shields.io/badge/status-en%20progreso-00C9FF?style=flat-square"/>
 
-### 📈 Actividad
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JDGiraldo&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+**[🎭 autoPlawright](https://github.com/JDGiraldo/autoPlawright)**
+<br/>Automatización de pruebas con Playwright
 
-</div>
+</td>
+<td width="50%">
+
+**[🛒 MercadoLibreAutomation](https://github.com/JDGiraldo/MercadoLibreAutomation)**
+<br/>Automatización de compra a Mercado Libre
+
+</td>
+</tr>
+</table>
 
 <br/>
 
